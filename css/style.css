@@ -1,3 +1,7 @@
 section div{
     color: blueviolet;
 }
+.new-section{
+    background-color: aquamarine;
+    min-height: 60px;
+}
